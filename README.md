@@ -2,6 +2,8 @@
  <div>
   <a href="https://github.com/paulozanluqui" target="_blank">
 <div>
+ 
+ ## Linguagens que eu tenho conhecimento:
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
