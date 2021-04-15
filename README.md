@@ -1,12 +1,17 @@
-## Olá, meu nome é Paulo Zanluqui!
+## Paulo Zanluqui
+Grading in Computer Science / Programmer
  <div>
   <a href="https://github.com/paulozanluqui" target="_blank">
 </div>
  
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulozanluqui" alt="paulozanluqui" /> </p>-->
+ 
+ ##
+ 
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulozanluqui&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide=contribs,prs" alt="paulozanluqui"/> 
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulozanluqui&layout=compact&theme=chartreuse-dark"/>
  
- ## Linguagens que eu tenho conhecimento:
+ ## My interests:
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
