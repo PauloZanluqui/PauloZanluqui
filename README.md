@@ -3,7 +3,7 @@
   <a href="https://github.com/paulozanluqui" target="_blank">
 <div>
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulozanluqui&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="paulozanluqui"/> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulozanluqui&show_icons=true&theme=chartreuse-dark&count_private=true&hide=stars,prs&show_owner=true" alt="paulozanluqui"/> 
 <img height="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulozanluqui&layout=compact&langs_count=8&theme=chartreuse-dark"/>
  
  ## Linguagens que eu tenho conhecimento:
