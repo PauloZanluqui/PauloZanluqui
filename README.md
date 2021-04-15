@@ -3,8 +3,8 @@
   <a href="https://github.com/paulozanluqui" target="_blank">
 </div>
  
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulozanluqui&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide=contribs,prs" alt="paulozanluqui"/> 
-<img height="160em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulozanluqui&layout=compact&theme=chartreuse-dark"/>
+ <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=paulozanluqui&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide=contribs,prs" alt="paulozanluqui"/> 
+<img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulozanluqui&layout=compact&theme=chartreuse-dark"/>
  
  ## Linguagens que eu tenho conhecimento:
 <div style="display: inline_block"><br>
