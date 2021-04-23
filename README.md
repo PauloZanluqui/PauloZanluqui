@@ -9,7 +9,7 @@ Grading in Computer Science / Programmer
  ##
  
  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=paulozanluqui&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide=contribs,prs" alt="paulozanluqui"/> 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulozanluqui&layout=compact&theme=chartreuse-dark"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulozanluqui&layout=compact&theme=chartreuse-dark&langs_count=6"/>
  
  ## My interests:
 <div style="display: inline_block"><br>
